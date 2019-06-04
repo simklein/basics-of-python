@@ -7,6 +7,7 @@ An attempt of summarizing information on python packaging
 The Jupyter notebooks are available
 
 * Online as [static web pages](http://nbviewer.ipython.org/github/simklein/basics-of-python-packaging/blob/master/basicsPythonPackaging.ipynb) 
+* Online for [interactive use](https://mybinder.org/v2/gh/simklein/basics-of-python/master) using [binder](http://mybinder.org/)
 * Local (offline) use on your computer
 
-* **To do:** Online for [interactive use](https://mybinder.org/v2/gh/simklein/basics-of-python/master) using [binder](http://mybinder.org/)
+You will need a local Jupyter/iPython installation. Check out [Anaconda](https://www.anaconda.com/distribution/). 
