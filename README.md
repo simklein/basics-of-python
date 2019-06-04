@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simklein/basics-of-python.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simklein/basics-of-python/master)
 
 # Basics of Python Packaging
 An attempt of summarizing information on python packaging
@@ -9,4 +9,4 @@ The Jupyter notebooks are available
 * Online as [static web pages](http://nbviewer.ipython.org/github/simklein/basics-of-python-packaging/blob/master/basicsPythonPackaging.ipynb) 
 * Local (offline) use on your computer
 
-* **To do:** Online for [interactive use](http://mybinder.org/) using [binder](http://mybinder.org/)
+* **To do:** Online for [interactive use](https://mybinder.org/v2/gh/simklein/basics-of-python/master) using [binder](http://mybinder.org/)
