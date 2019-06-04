@@ -11,3 +11,6 @@ The Jupyter notebooks are available
 * Local (offline) use on your computer
 
 You will need a local Jupyter/iPython installation. Check out [Anaconda](https://www.anaconda.com/distribution/). 
+
+## *To do*
+* License?
