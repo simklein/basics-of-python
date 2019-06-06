@@ -1,8 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simklein/basics-of-python/master?filepath=index.ipynb)
 
 
-# Basics of Python Packaging
-An attempt of summarizing information on python packaging
+# Basics of Python
+An attempt of summarizing information on how to get started with python and the basics of python packaging
 
 ## Getting Started
 The Jupyter notebooks are available
