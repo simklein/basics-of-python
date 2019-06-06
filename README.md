@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simklein/basics-of-python/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simklein/basics-of-python/master?filepath=index.ipynb)
+
 
 # Basics of Python Packaging
 An attempt of summarizing information on python packaging
