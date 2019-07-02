@@ -13,4 +13,6 @@ The Jupyter notebooks are available
 
 If you want to use the notebooks on your own computer, you will need a local Jupyter/IPython installation. Check out [Anaconda](https://www.anaconda.com/distribution/). Use `git clone` for a local version of this repo to add anything.
 
+## *To do*
+* how to setup Package (esp. Tox, CI, Pytest)
 
