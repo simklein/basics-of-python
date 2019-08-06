@@ -10,7 +10,11 @@ The Jupyter Notebooks are available
 * Local (offline) use on your computer
 
 If you want to use the notebooks on your own computer, you will need a local Jupyter/IPython installation. If you don't have it installed jump to the [Anaconda](#anaconda) section. 
-Use `git clone https://github.com/simklein/basics-of-python.git` for a local version of this repo to add anything.
+For a local version of this repo clone it with git. 
+```
+git clone https://github.com/simklein/basics-of-python.git
+``` 
+
 
 ## Anaconda
 Download and install [Anaconda](https://www.anaconda.com/distribution/) for setting up Python the first time. Anaconda is a distribution of Python that comes with several packages, an IDE and a virtual environment manager.
