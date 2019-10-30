@@ -79,7 +79,7 @@ You can start Jupyter by simply calling:
 jupyter notebook
 ```
 This will open up a new browser window (or a new tab) showing the Notebook Dashboard.
-If your browser does not open automatically, visit [localhost:8888][linkLocalhost].
+If your browser does not open automatically, visit localhost:8888.
 You can now see the contents of the current directory and are able to navigate to the desired Notebook Document.
 
 Now you can go through the notebooks to get to know even more about Python.
