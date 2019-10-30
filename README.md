@@ -62,7 +62,7 @@ You can also [create virtual environments with Pip](https://packaging.python.org
 
 First you should update to the current version
 ```
-python -m pip install --user pip
+python -m pip install --upgrade pip
 ```
 
 If a package is not available on Conda you can use the following command to install packages:
